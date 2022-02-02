@@ -25,12 +25,14 @@ This method minimizes the total qubits used.
    8 qubits for QUBO 1, x = q1 + 2q2 - q3 - 2q4: QUBO1_LS_8qubits.ipynb
    6 qubits for QUBO 2, x = q1 + 2q2 - 4q3:      QUBO2_LS_6qubits.ipynb
 ```
+```
 2. 3 by 3 matrix x and a vector b:
         1   -1    1
    A = -2    3    4 , b = (4, -4, 8)
         1   -4   -1
    12 qubits for QUBO 1, x = q1 + 2q2 - q3 - 2q4: QUBO1_LS_12qubits.ipynb
    9 qubits for QUBO 2, x = q1 + 2q2 - 4q3:       QUBO2_LS_9qubits.ipynb
+```
 ```
 3. 4 by 4 matrix x and a vector b:
         9   -2   -2   9
@@ -39,6 +41,7 @@ This method minimizes the total qubits used.
        -8    8   10   9 
       16 qubits for QUBO 1, x = q1 + 2q2 - q3 - 2q4: QUBO1_LS_16qubits.ipynb
       12 qubits for QUBO 2, x = q1 + 2q2 - 4q3:      QUBO2_LS_12qubits.ipynb
+```
 ```
 4. 4 by 4 matrix x and a vector b:
         9   -2   -2   9
