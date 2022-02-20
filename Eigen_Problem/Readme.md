@@ -44,24 +44,27 @@ An eigenvector space is a ray starting from the origin.
 So, there can be multiple eigenvectors for the same eigenvalue.
 ```
 ```
-Energy:
-51   1  0  0  1  1  0    0.0 
-Related Equation:
- 1   0 *  1 = 1 *  1
--4   3    2        2
+num  a  b  c  d  e  f   energy   num_oc.
+51   1  0  0  1  1  0    0.0       1 
+Related Equation: 
+   A    *  x  =  r  *  x
+ 1   0  *  1  =  1  *  1
+-4   3     2           2
 ```
 ```
-Energy:
+num  a  b  c  d  e  f   energy   num_oc.
 23   0  0  1  0  1  1    0.0       1
 Related Equation:
- 1   0 *  0 = 3 *  0
--4   3    1        1
+   A    *  x  =  r  *  x
+ 1   0  *  0  =  3  *  0
+-4   3     1           1
 
-Energy:
+num  a  b  c  d  e  f   energy   num_oc.
 40   0  0  1  1  1  1    0.0       1
 Related Equation:
- 1   0 *  0 = 3 *  0
--4   3    3        3
+   A    *  x  =  r  *  x
+ 1   0  *  0  =  3  *  0
+-4   3     3           3
 ```
 ```
 The following four solutions have trivial numbers.
