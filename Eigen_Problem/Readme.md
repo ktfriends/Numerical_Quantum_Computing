@@ -2,6 +2,7 @@
 ```
 We are developing generator code optimized for D-Wave.
 ```
+```
 Linear system Ax = b.
 We start HUBO Model from the two norm square of Ax - rx. (r is eigenvalue)
 The maximum number of qubit variables is 64 in D-Wave 2000Q.
@@ -43,3 +44,4 @@ The following four solutions have trivial numbers.
 7    0  0  0  0  0  1    0.0       1
 8    0  0  0  0  1  1    0.0       1
 15   0  0  0  0  1  0    0.0       1
+```
