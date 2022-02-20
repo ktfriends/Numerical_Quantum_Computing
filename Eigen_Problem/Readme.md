@@ -39,6 +39,31 @@ num  a  b  c  d  e  f   energy   num_oc.
 ```
 ### Discussion
 ```
+We found 3 solutions for this eigenvalue problem.
+An eigenvector space is a ray starting from the origin.
+So, there can be multiple eigenvectors for the same eigenvalue.
+```
+```
+Energy:
+51   1  0  0  1  1  0    0.0 
+Related Equation:
+ 1   0 *  1 = 1 *  1
+-4   3    2        2
+```
+```
+Energy:
+23   0  0  1  0  1  1    0.0       1
+Related Equation:
+ 1   0 *  0 = 3 *  0
+-4   3    1        1
+
+Energy:
+40   0  0  1  1  1  1    0.0       1
+Related Equation:
+ 1   0 *  0 = 3 *  0
+-4   3    3        3
+```
+```
 The following four solutions have trivial numbers.
 0    0  0  0  0  0  0    0.0       1
 7    0  0  0  0  0  1    0.0       1
