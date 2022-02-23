@@ -11,6 +11,7 @@ Hyunju Lee: hyunjulee0824@gmail.com
 Solving linear system: Ax = b
 To solve Ax = b, we use the two norm square of Ax - b.
 If any x satisfies Ax = b, then the absolute value of Ax - b satisfies the minimum value 0.
+Related preprint (with Eigenvalue problem): https://arxiv.org/abs/2106.10819
 ```
 
 ## Eigenvalues and Eigenvectors
@@ -31,4 +32,5 @@ We generally do QUBO modeling to use q^2 = q when creating an energy Hemiltonian
 ```
 We introduce an algorithm that can be used by dividing the size of the entire domain according to the number of qubits.
 We also form a QUBO model related to each subregion. 
+Related preprint: https://arxiv.org/abs/2202.07692
 ```
