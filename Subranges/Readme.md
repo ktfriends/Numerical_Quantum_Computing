@@ -3,7 +3,14 @@
 Linear system Ax = b.
 We start QUBO Model from the two norm square of Ax - b.
 The maximum number of qubits used is 64 in D-Wave 2000Q.
-We introduce an algorithm that can be used by dividing the size of the entire domain according to the number of qubits
+We introduce an algorithm that can be used by dividing the size of the entire domain according to the number of qubits.
+For each test model, only subranges with solutions were used to find the solution.
+```
+```
+We will update the code that can search the entire domain when purchasing an unlimited D-Wave ticket.
+We will finally release the code for users of D-Wave 2000Q to find solutions of real or imaginary numbers within the desired tolerance.
+In the case of real numbers, up to 64 by 64 matrices can be calculated, and in the case of imaginary numbers, up to 32 by 32 matrices can be calculated.
+We expect the D-Wave 7000Q to compute linear equations for matrices larger than 100 by 100.
 ```
 ## QUBO Model 1
 ```
