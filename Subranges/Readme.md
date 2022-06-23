@@ -84,3 +84,25 @@ Vector b:
 [  761  4638  -845 -4004  3797   751 -1308  -686  3181  -528  2007  -975   1658   964 -1445 -1913   533 -4792 -3912  1217 -1873   908 -1659  1678
 -336  6261   528  -741  -208  2341 -1633  -166]
 ```
+## Examples
+```
+1 qubit for each variable
+The range of xi is [0,1].
+Subrange size is 2.
+x1 = q1
+x1' = 2c + q1
+```
+```
+2 qubits for each variable
+The range of xi is [0,3].
+Subrange size is 4.
+x1 = q1 + 2q2
+x1' = 4c + q1 + 2q2
+```
+```
+3 qubits for each variable
+The range of xi is [0,7].
+Subrange size is 8.
+x1 = q1 + 2q2 + 4q3
+x1' = 8c + q1 + 2q2 + 4q3
+```
