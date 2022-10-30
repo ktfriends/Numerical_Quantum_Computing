@@ -23,13 +23,13 @@ Second eigen value and eigen vector
 -4   3    3        3
 minimum qubit status: 0 0 1 1 1 1
 ```
-### Used Qubits
 ```
+Used Qubits
 x = (a+2b, c+2d) : Eigenvector
 r = e+2f         : Eigenvalue
 ```
-### Result for D-Wave simulator
 ```
+Result for D-Wave simulator
 num  a  b  c  d  e  f   energy   num_oc.
 0    0  0  0  0  0  0    0.0       1
 7    0  0  0  0  0  1    0.0       1
@@ -39,8 +39,8 @@ num  a  b  c  d  e  f   energy   num_oc.
 40   0  0  1  1  1  1    0.0       1
 51   1  0  0  1  1  0    0.0       1
 ```
-### Discussion
 ```
+Discussion
 We found 3 solutions for this eigenvalue problem.
 An eigenvector space is a ray starting from the origin.
 So, there can be multiple eigenvectors for the same eigenvalue.
