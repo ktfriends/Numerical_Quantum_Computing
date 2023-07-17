@@ -1,9 +1,8 @@
 # Numerical Quantum Computing
 
-## Team members at Quantum Research Center, Innovative Quantum Computed Tomography
+## Quantum Research Center, QTomo
 ```
 Kyungtaek Jun: ktfriends@gmail.com
-Hyunju Lee: hyunjulee0824@gmail.com
 ```
 
 
