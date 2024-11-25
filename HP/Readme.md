@@ -13,8 +13,8 @@ Advantage: Precise calculations possible with a small number of qubits
 
 ```
 Radix-2 representation of the variable xi: 
-1st representation: xi = -{P2^(-m)q_(i,-m) + 2^(-m+1)q_(i,-m+1) + --- + 2^mq_(i,m)} 
-                        + {2^(-m)q_(i,-m) + 2^(-m+1)q_(i,-m+1) + --- + 2^mq_(i,m)}
+1st representation: xi = -{2^(-m)q_(i,-m)^(-) + 2^(-m+1)q_(i,-m+1)^(-) + --- + 2^mq_(i,m)^(-)} 
+                        + {2^(-m)q_(i,-m)^(+) + 2^(-m+1)q_(i,-m+1)^(+) + --- + 2^mq_(i,m)^(+)}
 2nd representation: xi = 2^(-m)q_(i,-m) + 2^(-m+1)q_(i,-m+1) + --- + 2^mq_(i,m)} - 2^(m+1)q_(i,m+1)
 ```
 ```
