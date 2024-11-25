@@ -25,4 +25,6 @@ Example 2: xi = 2^(k){q_(i,k)^(+) - q_(i,k)^(-)} + 2^(k-1){q_(i,k-1)^(+) - q_(i,
 ```
 The reason for using the first representation in this paper: 
 The minimum energy discovery rate is higher than the second method when using constraints.
+Title: Effective QUBO modeling for solving linear systems on D-wave quantum annealing device
+Link: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12093/120930F/Effective-QUBO-modeling-for-solving-linear-systems-on-D-wave/10.1117/12.2632416.short?SSO=1
 ```
