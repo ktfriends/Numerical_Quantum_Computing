@@ -3,12 +3,12 @@
 Iterative solving algorithm (Example: quantum linear system: Ax = b)
 Advantage: Precise calculations possible with a small number of qubits
 ```
-## Example 1: Paper_Iter_Acc_2by2_easy_1qubit.ipynb
-## Example 2: Paper_Iter_Acc_2by2_easy_3qubits.ipynb
+### Example 1: Paper_Iter_Acc_2by2_easy_1qubit.ipynb
+### Example 2: Paper_Iter_Acc_2by2_easy_3qubits.ipynb
 ```
-Matrix A:    Vector b:
-[[ root(2)   -root(3)]     [ 1024pi  
- [ root(5)    root(7)]]      -32e   ]
+        Matrix A:               Vector b:
+[[ root(2)   -root(3)]         [ 1024pi  
+ [ root(5)    root(7)]]          -32e   ]
 ```
 
 ```
