@@ -1,8 +1,7 @@
-# Effective QUBO modeling for solving linear systems
+# QUBO Refinement: Achieving Superior Precision through Iterative Quantum Formulation with Limited Qubits
 ```
-Solving linear system: Ax = b
-We make several QUBO models for matrices and compare the results.
-From the results, we propose a new method for constrained problems.
+Iterative solving algorithm (Example: quantum linear system: Ax = b)
+Advantage: Precise calculations possible with a small number of qubits
 ```
 ## Example 1: Paper_Iter_Acc_2by2_easy_1qubit.ipynb
 ## Example 2: Paper_Iter_Acc_2by2_easy_3qubits.ipynb
